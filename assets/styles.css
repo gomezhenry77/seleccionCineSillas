@@ -1,0 +1,7 @@
+.teatro{
+    display:flex;
+    width: 600px;
+    height: 540px;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
